@@ -1,0 +1,11 @@
+INDEX VERSION 1.126
+C:\primeton\platform2\ide\eclipse\workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3234879350.index
+\project\com.primeton.eos\src
+C:\primeton\platform2\ide\eclipse\workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4163825340.index
+\project\com.primeton.eos\src
+C:\primeton\platform2\ide\eclipse\workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3930213570.index
+\project\com.primeton.eos\src
+C:\primeton\platform2\ide\eclipse\workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\245675632.index
+\project\com.primeton.eos\src
+C:\primeton\platform2\ide\eclipse\workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\156599990.index
+\project\com.primeton.eos\src
